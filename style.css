@@ -1,0 +1,30 @@
+style.css
+.custom-upload {
+    border: 2px dashed #4CAF50;
+    border-radius: 10px;
+    padding: 20px;
+    background: #f5fff5;
+    text-align: center;
+    cursor: pointer;
+}
+
+.custom-upload:hover {
+    background: #e5ffe5;
+    border-color: #45a049;
+}
+
+.custom-button {
+    width: 100%;
+    margin-top: 15px;
+    background: linear-gradient(145deg, #4CAF50, #45a049);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 12px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.custom-button:hover {
+    background: linear-gradient(145deg, #45a049, #4CAF50);
+}
